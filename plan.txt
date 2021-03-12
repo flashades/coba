@@ -3,3 +3,6 @@ Apps plan
 1 . HTML 
 2 . CSS 
 3 . JS
+    - JS DOM
+    - JS Advanced
+4 . CSS Advanced
