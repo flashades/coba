@@ -19,3 +19,4 @@ FRAMEWORK
 - Node
 - react
 - Express
+- Mongo DB
