@@ -17,6 +17,7 @@ Apps plan
     
 FRAMEWORK 
 - Node
-- Vue
+- React
 - Express
-- Mongo
+- Mongo DB
+
