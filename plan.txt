@@ -14,9 +14,10 @@ Apps plan
         - backend 
             - Node
             - Express
-            
+    
 FRAMEWORK 
 - Node
-- react
+- React
 - Express
 - Mongo DB
+
