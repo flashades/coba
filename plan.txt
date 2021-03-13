@@ -14,4 +14,8 @@ Apps plan
         - backend 
             - Node
             - Express
-    
+            
+FRAMEWORK 
+- Node
+- react
+- Express
