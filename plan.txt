@@ -15,3 +15,8 @@ Apps plan
             - Node
             - Express
     
+FRAMEWORK 
+- Node
+- Vue
+- Express
+- Mongo
