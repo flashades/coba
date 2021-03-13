@@ -2,3 +2,4 @@ Database
 
 - SQL 
 - Mongo 
+- Dynamo 
